@@ -1,3 +1,5 @@
+'use client'
+
 import { RestaurantDashboard } from '@/components/pages/restaurant-dashboard'
 
 export default function RestaurantDashboardPage() {
